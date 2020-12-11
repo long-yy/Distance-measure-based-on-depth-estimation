@@ -6,4 +6,4 @@
   - [NYU_FCRN.ckpt.data-00000-of-00001](https://drive.google.com/file/d/1TTDdFT3LcKoVTDCFEFTYarhOKpISmHPN/view?usp=sharing)
   - [NYU_FCRN.ckpt.meta](https://drive.google.com/file/d/1wdUh-22jxhBHLKHK8qvFsHXHncCoMsFO/view?usp=sharing)
 - put in checkpoints/test_local: 
-  -[best_generalization_net_G.pth](http://www.cs.cornell.edu/projects/megadepth/dataset/models/best_generalization_net_G.pth)
+  - [best_generalization_net_G.pth](http://www.cs.cornell.edu/projects/megadepth/dataset/models/best_generalization_net_G.pth)
